@@ -4,6 +4,7 @@ description: Lottie widget and demo for Flutter.
 authors:
     - Dan Field <dfield@gmail.com>
     - Fabiomsr
+    - PramUkesh Examples Improvement
 homepage: https://github.com/dnfield/lottie-flutter
 
 dependencies:
